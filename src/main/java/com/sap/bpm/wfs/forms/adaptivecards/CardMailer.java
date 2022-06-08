@@ -42,6 +42,8 @@ public class CardMailer {
     private String smtpAuth;
     @Value("${mail.smtp.starttls.enable}")
     private String smtpStartTLS;
+    @Value("${mail.smtp.ssl.protocols}")
+    private String smtpSslProtocols;
     @Value("${mail.smtp.connectiontimeout}")
     private String smtpConnectionTimeout;
     @Value("${mail.smtp.timeout}")
@@ -110,6 +112,7 @@ public class CardMailer {
         prop.put("mail.smtp.port", smtpPort);
         prop.put("mail.smtp.auth", smtpAuth);
         prop.put("mail.smtp.starttls.enable", smtpStartTLS);
+        prop.put("mail.smtp.ssl.protocols", smtpSslProtocols);
         prop.put("mail.smtp.connectiontimeout", smtpConnectionTimeout);
         prop.put("mail.smtp.timeout", smtpTimeout);
         return prop;

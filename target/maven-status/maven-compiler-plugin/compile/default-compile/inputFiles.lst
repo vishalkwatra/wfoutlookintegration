@@ -1,0 +1,16 @@
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/util/Task.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/TaskChangeListenerJob.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/config/VcapConfig.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/config/MailConfig.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/cardvalidation/OpenIdMetadata.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/util/HttpUtils.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/TaskRetriever.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/cardvalidation/ActionableMessageTokenValidationResult.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/util/Application.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/cardvalidation/ActionableMessageTokenValidator.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/CardMailer.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/CardBuilder.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/CardSubmissionController.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/RemoteAccessException.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/config/TaskSchedulerConfig.java
+/home/user/projects/outlookintegration/src/main/java/com/sap/bpm/wfs/forms/adaptivecards/util/UaaUtils.java

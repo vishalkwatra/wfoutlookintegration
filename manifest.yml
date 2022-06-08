@@ -1,6 +1,6 @@
 ---
 applications:
-- name: sdcit-CF_SPACE-wfs-forms-adaptive-cards
+- name: sdcit-cf_space-wfs-forms-adaptive-cards
   memory: 1G
   instances: 1
   path: target/wfs-forms-adaptive-cards-0.0.1-SNAPSHOT.war
